@@ -24,7 +24,7 @@ Traditional LLM evaluation relies on subjective, manual review — slow, inconsi
 
 ## 🏆 Key Feature: Anonymous Peer Evaluation
 
-This project implements **Anonymous Peer Evaluation** — the same methodology used in academic peer review and professional LLM research benchmarks like [LMSYS Chatbot Arena](https://chat.lmsys.org/).
+This project implements **Anonymous Peer Evaluation** — the same methodology used in academic peer review and professional LLM research benchmarks like [LMSYS Chatbot Arena](https://www.lmsys.org/)).
 
 The neutral judge receives both responses labeled only as **"Response A"** and **"Response B"** — with **zero information about which model produced which answer**:
 
