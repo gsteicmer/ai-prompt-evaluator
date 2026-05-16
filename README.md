@@ -230,6 +230,4 @@ Showcases: anonymous peer evaluation, parallel LLM orchestration, structured out
 
 ---
 
-## 📄 License
-
-MIT — free to use, fork, and extend.
+© 2026 dev_gste All rights reserved
